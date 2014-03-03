@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extension Name</key>
+	<string>English to Eijiro Pro</string>
+	<key>Extension Description</key>
+	<string>Look up English words in Eijiro Pro</string>
+	<key>Extension Identifier</key>
+	<string>com.my_name.popclip.extension.open-in-eijiro-pro</string>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>English to Eijiro Pro</string>
+			<key>Image File</key>
+			<string>my_icon.png</string>
+			<key>Shell Script File</key>
+			<string>my_script.sh</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,6 +1,7 @@
 # PopClipに以下の機能を追加
 + Weblio
 + 英辞郎
++ 英辞郎 Pro
 + Urban
 + Farlex
 
