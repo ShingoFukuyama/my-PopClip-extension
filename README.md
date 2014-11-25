@@ -11,7 +11,7 @@
 
 表示されるウィンドウの左側のインストールボタンをクリックすると反映されます。
 
-![Prompt](https://raw2.github.com/ShingoFukuyama/my-PopClip-extension/master/img/ss.png)
+![Prompt](https://raw.githubusercontent.com/ShingoFukuyama/my-PopClip-extension/master/img/ss.png)
 
 
 
